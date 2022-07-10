@@ -5,5 +5,10 @@
   
   }
   
+  @media(min-height: 680px){
+    *{
+        padding: 0;
+        display: flex;
+    }
 
-  
+  }
